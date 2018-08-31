@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/Study Material/Java-Related-Stuffs/Java Jar Import/All/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="E:/Study Material/Java-Related-Stuffs/Java Jar Import/All/classmate-1.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Study Material/Java-Related-Stuffs/Java Jar Import/All/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Study Material/Java-Related-Stuffs/Java Jar Import/All/hibernate-3.2.7.ga-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Study Material/Java-Related-Stuffs/Java Jar Import/All/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Study Material/Java-Related-Stuffs/Java Jar Import/All/hibernate-core-5.2.11.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Study Material/Java-Related-Stuffs/Java Jar Import/All/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Study Material/Java-Related-Stuffs/Java Jar Import/All/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="E:/Study Material/Java-Related-Stuffs/Java Jar Import/All/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Study Material/Java-Related-Stuffs/Java Jar Import/All/jboss-transaction-api_1.2_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Study Material/Java-Related-Stuffs/Java Jar Import/All/lucene-core-5.5.4.jar"/>
+	<classpathentry kind="lib" path="E:/Study Material/Java-Related-Stuffs/Java Jar Import/All/lucene-queryparser-5.5.4.jar"/>
+	<classpathentry kind="lib" path="E:/Study Material/Java-Related-Stuffs/Java Jar Import/All/mysql-connector-java-5.1.6-bin.jar"/>
+	<classpathentry kind="lib" path="E:/Study Material/Java-Related-Stuffs/Java Jar Import/All/xml-apis-1.3.03.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Navin/Documents/NetBeansProjects/ExcelSheet/dist/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Navin/Documents/NetBeansProjects/ExcelSheet/dist/lib/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Navin/Documents/NetBeansProjects/ExcelSheet/dist/lib/jxl-2.6.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Navin/Documents/NetBeansProjects/ExcelSheet/dist/lib/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Navin/Documents/NetBeansProjects/ExcelSheet/dist/lib/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Navin/Documents/NetBeansProjects/ExcelSheet/dist/lib/poi-ooxml-3.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Navin/Documents/NetBeansProjects/ExcelSheet/dist/lib/poi-ooxml-3.15.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Navin/Documents/NetBeansProjects/ExcelSheet/dist/lib/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Navin/Documents/NetBeansProjects/ExcelSheet/dist/lib/poi-ooxml-schemas-3.11.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Navin/Documents/NetBeansProjects/ExcelSheet/dist/lib/poi-ooxml-schemas-3.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Navin/Documents/NetBeansProjects/ExcelSheet/dist/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Study Material/Java-Related-Stuffs/Java Jar Import/Mail_Jar_Files/jaf-1_0_2-upd2.zip"/>
+	<classpathentry kind="lib" path="E:/Study Material/Java-Related-Stuffs/Java Jar Import/Mail_Jar_Files/javamail-1_2.zip"/>
+	<classpathentry kind="lib" path="E:/Study Material/Java-Related-Stuffs/Java Jar Import/Mail_Jar_Files/mail-1.4.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

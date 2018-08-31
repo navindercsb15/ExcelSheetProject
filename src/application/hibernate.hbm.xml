@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+    
+    <hibernate-mapping package="application">
+    	<class name="Company" table="company">
+    		<id name="username" column="username">
+			<generator class="assigned"></generator>
+		</id>
+		
+		<property name="name" column="name"></property>
+		<property name="city" column="city"></property>
+    	</class>
+    	<class name="Student" table="student">
+    		<id name="username" column="username">
+			<generator class="assigned"></generator>
+		</id>
+		
+		<property name="name" column="name"></property>
+		<property name="city" column="city"></property>
+    	</class>
+    	
+    </hibernate-mapping>
